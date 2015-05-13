@@ -1,0 +1,29 @@
+{
+  "name": "angular-idleness",
+  "version": "0.1.0",
+  "authors": [
+    "Mark Gutierrez <mark.gutierrez@connexway.com>"
+  ],
+  "description": "An angular service whice executes callbacks when user goes idle or active",
+  "main": "angular-idleness.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "idle",
+    "idleness",
+    "inactive",
+    "inactiveness",
+    "angular-idle",
+    "angular-idleness",
+    "ng-idle",
+    "ng-idleness"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
