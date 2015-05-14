@@ -4,7 +4,7 @@
   "authors": [
     "Mark Gutierrez <mark.gutierrez@connexway.com>"
   ],
-  "description": "An angular service whice executes callbacks when user goes idle or active",
+  "description": "A simple, ultra-lighweigth angular service whice executes callbacks when user goes idle or active",
   "main": "angular-idleness.js",
   "keywords": [
     "angular",
