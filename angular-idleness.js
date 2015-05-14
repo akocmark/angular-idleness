@@ -2,7 +2,7 @@
  * Angular Idleness
  * Observes the idleness of a user
  *-------------------------------*/
-angular.module('angular-idleness').service("idleness", function($window) {
+angular.module('angular-idleness', []).service("idleness", function($window) {
     
 	this.idle = undefined;
 
