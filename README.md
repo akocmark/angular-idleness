@@ -1,5 +1,5 @@
 # angular-idleness
-A simple, ultra-lighweigth angular service whice executes callbacks when user goes idle or active
+A simple, ultra-lighweigth (1.3kb) angular service whice executes callbacks when user goes idle or active
 
 # Demo
 
